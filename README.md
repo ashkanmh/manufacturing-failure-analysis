@@ -74,16 +74,6 @@ reduce downtime cost:
 2. **Add torque monitoring alerts**
 3. **Prioritise HDF root cause investigation**
 
-## Project Structure
-
-manufacturing-failure-analysis/
-│
-├── oee_exploration.ipynb
-├── manufacturing_analysis.sql
-├── ai4i_clean.csv
-├── failure_analysis.png
-└── README.md
-
 ## How to Run
 
 1. Clone this repository
